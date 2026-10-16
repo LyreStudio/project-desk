@@ -28,7 +28,7 @@ Data stays in this browser's localStorage on this origin. There is no cloud sync
 
 ## Customize
 
-Edit config.mjs for fields and sample content, app.css for the visual design, and app.mjs for interactions. Tabler 1.5.1 is vendored, so pages do not depend on a CDN. See TEMPLATE.md and vendor/ for provenance and notices.
+Edit config.mjs for fields and sample content, app.css for the visual design, and app.mjs for interactions. Tabler 1.6.1 is vendored, so pages do not depend on a CDN. See TEMPLATE.md and vendor/ for provenance and notices.
 
 ## License
 
